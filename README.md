@@ -10,6 +10,16 @@ beatmania IIDX INFINITASのスコアCSVを手動で読み込み、分析や選�
 2. 自分で取得したスコアCSVを読み込みます。
 3. ダッシュボード、スコア検索、選曲ルーレット、履歴比較などを利用できます。
 
+4. 
+## ダウンロード
+
+RESONANCE LABは、HTMLファイル単体で動作するスコア管理ツールです。
+
+[![Download](https://img.shields.io/badge/Download-RESONANCE_LAB_v0.24-00B8D9?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/IIDXSAIX/RESONANCE-LAB/raw/refs/heads/main/index.html)
+
+ダウンロードした `index.html` をブラウザで開いてご利用ください。
+
+
 ## 機能
 
 - プロフィール表示・編集
